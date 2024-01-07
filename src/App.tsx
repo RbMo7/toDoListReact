@@ -66,7 +66,7 @@ function App() {
       <div className="">
         <div className="row">
           <div className="col-auto me-auto">
-            <div className="display-1">a To Do list</div>
+            <div className="display-1">aToDoList</div>
           </div>
 
           <div className="col-auto mt-5">
